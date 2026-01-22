@@ -1,0 +1,9 @@
+# Task Manager CLI - Requirements
+# This project uses only Python standard library
+# No external dependencies required!
+
+# Python 3.7+ required for:
+# - Type hints with typing module
+# - Datetime handling
+# - JSON serialization
+# - File I/O operations
